@@ -1,0 +1,7 @@
+{
+  "name": "PwC Theme",
+  "dataColors": [ "#e03c31", "#f2a900", "#3d3d3d", "#c7c8ca", "#000000", "#ffffff" ],
+  "background": "#ffffff",
+  "foreground": "#3d3d3d",
+  "tableAccent": "#e03c31"
+}
